@@ -7,9 +7,9 @@
 </p>
   <p>💻 Desarrollador Full Stack en formación | Apasionado por la tecnología y la innovación</p>
   <p>
-    <a href="mailto:abel.tucorreo@gmail.com" target="_blank">✉️ Email</a> • 
-    <a href="https://www.linkedin.com/in/abelvargas" target="_blank">🔗 LinkedIn</a> • 
-    <a href="https://github.com/kodigo345" target="_blank">🐙 GitHub</a>
+    <a href="mailto:jesusvargasvida@gmail.com" target="_blank">✉️ Email</a> • 
+    <a href="[https://www.linkedin.com/in/abelvargas](https://www.linkedin.com/in/abel-vargas-96388618a/)" target="_blank">🔗 LinkedIn</a> • 
+    <a href="https://github.com/CodeByVar" target="_blank">🐙 GitHub</a>
   </p>
 </div>
 

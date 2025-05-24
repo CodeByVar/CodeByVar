@@ -1,4 +1,4 @@
-# 👋 Hola, soy Abel Vargas | CodeByVar
+ # 👋 Hola, soy Abel Vargas | CodeByVar
 
 <div align="center">
   <h1>Bienvenido a mi portafolio digital</h1>
@@ -6,8 +6,11 @@
   <img src="porta.jpg" alt=" imgs" />
 </p>
   <p>💻 Desarrollador Full Stack en formación | Apasionado por la tecnología y la innovación</p>
-  <p>
+  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
   </p>
 </div>
 

@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Bienvenido a mi portafolio digital</h1>
 <p align="center">
-  <img src="portada.jpg" alt=" imgs" />
+  <img src="porta.jpg" alt=" imgs" />
 </p>
   <p>💻 Desarrollador Full Stack en formación | Apasionado por la tecnología y la innovación</p>
   <p>

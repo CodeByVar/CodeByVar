@@ -7,9 +7,7 @@
 </p>
   <p>💻 Desarrollador Full Stack en formación | Apasionado por la tecnología y la innovación</p>
   <p>
-    <a	href = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> Gmail </a>
-    <a href="https://www.linkedin.com/in/abel-vargas-96388618a" target="_blank">🔗 LinkedIn</a> • 
-    <a href="https://github.com/CodeByVar" target="_blank">🐙 GitHub</a>
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
   </p>
 </div>
 
@@ -53,19 +51,6 @@ Si quieres platicar o colaborar en proyectos, aquí estoy:
 - 📧 abel.tucorreo@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abel-vargas-96388618a)  
 - 🐙 [GitHub](https://github.com/CodeByVar)
-
----
-
-## ⚡ Tech Stack
-
-<div>
-  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="PHP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
 
 ---
 

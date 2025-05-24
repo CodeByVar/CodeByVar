@@ -7,7 +7,7 @@
 </p>
   <p>💻 Desarrollador Full Stack en formación | Apasionado por la tecnología y la innovación</p>
   <p>
-    <a	href = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+    <a	href = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> Gmail </a>
     <a href="https://www.linkedin.com/in/abel-vargas-96388618a" target="_blank">🔗 LinkedIn</a> • 
     <a href="https://github.com/CodeByVar" target="_blank">🐙 GitHub</a>
   </p>
@@ -28,10 +28,10 @@
 
 ## 🚀 Sobre mí
 
-- Estudiante de Ingeniería en Sistemas.
-- Me encanta crear soluciones eficientes y aprender nuevas tecnologías.
-- Actualmente explorando Full Stack Development con proyectos en Python, PHP, JavaScript y más.
-- Apasionado por el software libre y la comunidad tech.
+- Systems Engineering student.
+- I love creating efficient solutions and learning new technologies.
+- Currently exploring full-stack development with projects in Python, PHP, JavaScript, and more.
+- Passionate about open source software and the tech community.
 
 ---
 
@@ -51,8 +51,8 @@
 Si quieres platicar o colaborar en proyectos, aquí estoy:
 
 - 📧 abel.tucorreo@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abelvargas)  
-- 🐙 [GitHub](https://github.com/kodigo345)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abel-vargas-96388618a)  
+- 🐙 [GitHub](https://github.com/CodeByVar)
 
 ---
 

@@ -7,7 +7,7 @@
 </p>
   <p>💻 Desarrollador Full Stack en formación | Apasionado por la tecnología y la innovación</p>
   <p>
-    <a href="mailto:jesusvargasvida@gmail.com" target="_blank">✉️ Email</a> • 
+    <a	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white </a>
     <a href="https://www.linkedin.com/in/abel-vargas-96388618a" target="_blank">🔗 LinkedIn</a> • 
     <a href="https://github.com/CodeByVar" target="_blank">🐙 GitHub</a>
   </p>
